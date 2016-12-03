@@ -22,7 +22,6 @@
       "webpack": "^2.1.0-beta"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/piecioshka/boilerplate-phaser-es2016"
+      "type": "git"
     }
 }
